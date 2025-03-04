@@ -141,14 +141,7 @@ Sigue estos pasos para configurar el proyecto localmente:
   - **FILTRO EMPRESAS**
   - **URL:** `http://localhost:3001/empresasManager/v1/company/filtroEmpresas`
 
-  ## 📬 Contacto 📬
-  Si necesitas ayuda o tienes alguna pregunta sobre el proyecto, no dudes en contactarnos:
+ 
 
   - 👨🏻‍💼 **Desarrollador principal**: 👨🏻‍💼  
- [MARCO](https://github.com/MarcoMJ2023060)
-
-## 📱 **Redes Sociales**: 📱
-- **📍 Sígueme**
-╰┈➤ [𝕏 Twitter](https://twitter.com/pg16_16_)  
-╰┈➤ [📸 Instagram](https://instagram.com/pg16_16_)  
-╰┈➤ [ⓕ Facebook](https://facebook.com/MarcoMartinez)  
+          https://github.com/Bsoberanis
